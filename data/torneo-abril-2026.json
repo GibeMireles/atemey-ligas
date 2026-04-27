@@ -120,6 +120,25 @@
               "nota": "Si clasifica"
             }
           ]
+        },
+        {
+          "nombre": "Individual U17 Femenil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "DAINERIS BRAVO (CUB)",
+            "MORAYLE LOVO (YUC)",
+            "LUCIA MEDINA (YUC)",
+            "ABIGAIL PECH (YUC)"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "19:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "U17 Femenil G2"
+            }
+          ]
         }
       ]
     },
@@ -206,6 +225,38 @@
             {
               "dia": "Domingo",
               "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Individual U17 Femenil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "ADRIANA BODE (CUB)",
+            "REGINA ESQUIVEL (YUC)",
+            "KALIA RIVAS (CUB)"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "15:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "U17 Femenil G1"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
               "fase": "final",
               "rival": null,
               "nota": "Si clasifica"
@@ -681,6 +732,27 @@
       ]
     },
     {
+      "nombre": "ASHANTY PEREZ",
+      "categorias": [
+        {
+          "nombre": "Equipos Tercera Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "ASHANTY PEREZ / CARLOS PEREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "15:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con CARLOS PEREZ"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "nombre": "ASHLIN PEREZ",
       "categorias": [
         {
@@ -997,6 +1069,24 @@
               "fase": "final",
               "rival": null,
               "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Individual U13 Femenil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "DAINERIS BRAVO (CUB)",
+            "JIMENA MIRELES (YUC)",
+            "MAYA MARQUEZ (YUC)"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "12:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual U13 Femenil"
             }
           ]
         }
@@ -2082,6 +2172,78 @@
               "nota": "Si clasifica"
             }
           ]
+        },
+        {
+          "nombre": "U13 Femenil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "DAINERIS BRAVO (CUB)",
+            "JIMENA MIRELES (YUC)",
+            "MAYA MARQUEZ (YUC)"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "12:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual U13 Femenil — Grupos"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Equipos Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ / MAURICIO RODRIGUEZ",
+            "SANTIAGO MONJE / SAID HERNANDEZ",
+            "JIMENA MIRELES / YAXKIN ALVAREZ",
+            "DAVID PEREIRA / MARCELO CASTILLO"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "15:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con YAXKIN ALVAREZ"
+            },
+            {
+              "dia": "Viernes",
+              "hora": "17:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Ronda 2"
+            },
+            {
+              "dia": "Viernes",
+              "hora": "19:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Ronda 3"
+            }
+          ]
         }
       ]
     },
@@ -2654,6 +2816,74 @@
       ]
     },
     {
+      "nombre": "LUCIA MEDINA",
+      "categorias": [
+        {
+          "nombre": "Individual U17 Femenil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "DAINERIS BRAVO (CUB)",
+            "MORAYLE LOVO (YUC)",
+            "LUCIA MEDINA (YUC)",
+            "ABIGAIL PECH (YUC)"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "15:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual U17 Femenil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "LUCIA REYES",
+      "categorias": [
+        {
+          "nombre": "Individual U13 Femenil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "LILI PEÑA (QROO)",
+            "LUCIA REYES (YUC)",
+            "JIMENA MIRELES (YUC)"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "12:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual U13 Femenil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MADIA CELIS",
+      "categorias": [
+        {
+          "nombre": "Equipos Tercera Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "SOFIA MONJE / MADIA CELIS"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "15:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con SOFIA MONJE"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "nombre": "MANUEL NOZ",
       "categorias": [
         {
@@ -3095,6 +3325,24 @@
               "nota": "Si clasifica"
             }
           ]
+        },
+        {
+          "nombre": "Individual U13 Femenil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "DAINERIS BRAVO (CUB)",
+            "JIMENA MIRELES (YUC)",
+            "MAYA MARQUEZ (YUC)"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "12:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual U13 Femenil"
+            }
+          ]
         }
       ]
     },
@@ -3184,6 +3432,25 @@
               "fase": "final",
               "rival": null,
               "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Individual U17 Femenil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "DAINERIS BRAVO (CUB)",
+            "MORAYLE LOVO (YUC)",
+            "LUCIA MEDINA (YUC)",
+            "ABIGAIL PECH (YUC)"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "19:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "U17 Femenil G2"
             }
           ]
         }
@@ -3714,6 +3981,27 @@
       ]
     },
     {
+      "nombre": "RAMON CASTAÑEDA",
+      "categorias": [
+        {
+          "nombre": "Equipos Segunda Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "AMAURI VALENCIA / RAMON CASTAÑEDA"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "08:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con AMAURI VALENCIA"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "nombre": "RAUL TAPIA",
       "categorias": [
         {
@@ -3928,6 +4216,24 @@
               "fase": "final",
               "rival": null,
               "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Individual U17 Femenil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "ADRIANA BODE (CUB)",
+            "REGINA ESQUIVEL (YUC)",
+            "KALIA RIVAS (CUB)"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "15:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "U17 Femenil G1"
             }
           ]
         }
@@ -4645,6 +4951,25 @@
               "fase": "final",
               "rival": null,
               "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Equipos Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ / MAURICIO RODRIGUEZ",
+            "SANTIAGO MONJE / SAID HERNANDEZ",
+            "JIMENA MIRELES / YAXKIN ALVAREZ",
+            "DAVID PEREIRA / MARCELO CASTILLO"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "15:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con JIMENA MIRELES"
             }
           ]
         }
