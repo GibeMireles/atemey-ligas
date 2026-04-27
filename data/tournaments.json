@@ -1,0 +1,8 @@
+{
+  "torneos": [
+    {
+      "nombre": "Liga Regional Abril 2026",
+      "archivo": "torneo-abril-2026.json"
+    }
+  ]
+}

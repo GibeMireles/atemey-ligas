@@ -1,0 +1,4751 @@
+{
+  "nombre": "Liga Regional de Tenis de Mesa Yucatán 2026",
+  "jugadores": [
+    {
+      "nombre": "AARON ALVAREZ",
+      "categorias": [
+        {
+          "nombre": "U11 Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "AARON ALVAREZ",
+            "NICOLAS GONZALEZ",
+            "MARCELO CASTILLO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U13 Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "ENMANUEL GARCIA",
+            "AARON ALVAREZ",
+            "SANTIAGO MONJE",
+            "NICOLAS GONZALEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ABIGAIL PECH",
+      "categorias": [
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "SANTIAGO VIGIL",
+            "TITO SANCHEZ",
+            "CLAUDIA PEREZ",
+            "ABIGAIL PECH"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ADRIANA BODE",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Femenil",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "DANIELA LOPEZ",
+            "ADRIANA BODE",
+            "MORAYLE LOVO",
+            "CLAUDIA PEREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "17:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "RAUL TAPIA",
+            "ADRIANA BODE",
+            "YUCEF ESPAÑA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ALEJANDRO ALVAREZ",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "JAVIER SEGOVIA",
+            "ALEJANDRO ALVAREZ",
+            "SANTIAGO VIGIL"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "NATZIN HERNANDEZ",
+            "DANIELA LOPEZ",
+            "ALEJANDRO ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ALEJANDRO MARTINEZ",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "ALEJANDRO MARTINEZ",
+            "EMMANUEL CARDOS",
+            "NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Primera Categoría Varonil",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "CARLOS ZAPATA",
+            "ALEJANDRO MARTINEZ",
+            "ELI MARTIN",
+            "FELIPE ARRIAGA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "AMAURI VALENCIA",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "JONATAN LEON",
+            "MATEO SANCHEZ",
+            "AMAURI VALENCIA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 5",
+          "jugadores_grupo": [
+            "VIVIAN PACHECO",
+            "DIEGO CORAL",
+            "AMAURI VALENCIA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 5 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ANYELY CAPOTE",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Femenil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "ANYELY CAPOTE",
+            "GISEL SEGOVIA",
+            "REGINA ESQUIVEL",
+            "KALIA RIVAS"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "17:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 6",
+          "jugadores_grupo": [
+            "ANYELY CAPOTE",
+            "JAVIER SEGOVIA",
+            "MATEO SANCHEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 6 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ARANZA SANCHEZ",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Femenil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "VIVIAN PACHECO",
+            "ARANZA SANCHEZ",
+            "DAINEARIS BRAVO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "17:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "DENNIS LARA",
+            "DAVID MENDEZ",
+            "ARANZA SANCHEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ASHLIN PEREZ",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "REGINA ELIAS",
+            "ASHLIN PEREZ",
+            "SAUL PECH",
+            "DAVID PEREIRA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "CARLOS PEREZ",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "MAURICIO RODRIGUEZ",
+            "SANTIAGO MONJE",
+            "LUCIA GONZALEZ",
+            "CARLOS PEREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "CARLOS ZAPATA",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Varonil",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "CARLOS ZAPATA",
+            "ALEJANDRO MARTINEZ",
+            "ELI MARTIN",
+            "FELIPE ARRIAGA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "CLAUDIA PEREZ",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Femenil",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "DANIELA LOPEZ",
+            "ADRIANA BODE",
+            "MORAYLE LOVO",
+            "CLAUDIA PEREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "17:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "SANTIAGO VIGIL",
+            "TITO SANCHEZ",
+            "CLAUDIA PEREZ",
+            "ABIGAIL PECH"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "DAINEARIS BRAVO",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Femenil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "VIVIAN PACHECO",
+            "ARANZA SANCHEZ",
+            "DAINEARIS BRAVO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "17:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "DAINERIS BRAVO",
+      "categorias": [
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "ENMANUEL GARCIA",
+            "DAINERIS BRAVO",
+            "LUCI REYES"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "DANIEL BELTRAN",
+      "categorias": [
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "EMMANUEL CARDOS",
+            "MORAYLE LOVO",
+            "DANIEL BELTRAN"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "DANIELA LOPEZ",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Femenil",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "DANIELA LOPEZ",
+            "ADRIANA BODE",
+            "MORAYLE LOVO",
+            "CLAUDIA PEREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "17:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "NATZIN HERNANDEZ",
+            "DANIELA LOPEZ",
+            "ALEJANDRO ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "DAVID MENDEZ",
+      "categorias": [
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "DENNIS LARA",
+            "DAVID MENDEZ",
+            "ARANZA SANCHEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "DAVID PEREIRA",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "REGINA ELIAS",
+            "ASHLIN PEREZ",
+            "SAUL PECH",
+            "DAVID PEREIRA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "DENNIS LARA",
+      "categorias": [
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "DENNIS LARA",
+            "DAVID MENDEZ",
+            "ARANZA SANCHEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "DIEGO CORAL",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 5",
+          "jugadores_grupo": [
+            "DIEGO CORAL",
+            "NICOLAS ALVAREZ",
+            "PATRICIO BURGOS"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 5 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 5",
+          "jugadores_grupo": [
+            "VIVIAN PACHECO",
+            "DIEGO CORAL",
+            "AMAURI VALENCIA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 5 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "DIOMAR ARGUELLES",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "DIOMAR ARGUELLES",
+            "JUAN JIMENES",
+            "JORGE RODRIGUEZ",
+            "EMILIANO VILLAGRAN"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "EIDER PADRON",
+      "categorias": [
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "EIDER PADRON",
+            "GISEL SEGOVIA",
+            "NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ELI MARTIN",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Varonil",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "CARLOS ZAPATA",
+            "ALEJANDRO MARTINEZ",
+            "ELI MARTIN",
+            "FELIPE ARRIAGA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "EMILIANO VILLAGRAN",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "DIOMAR ARGUELLES",
+            "JUAN JIMENES",
+            "JORGE RODRIGUEZ",
+            "EMILIANO VILLAGRAN"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "EMMANUEL CARDOS",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "ALEJANDRO MARTINEZ",
+            "EMMANUEL CARDOS",
+            "NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "EMMANUEL CARDOS",
+            "MORAYLE LOVO",
+            "DANIEL BELTRAN"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ENMANUEL GARCIA",
+      "categorias": [
+        {
+          "nombre": "U13 Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "ENMANUEL GARCIA",
+            "AARON ALVAREZ",
+            "SANTIAGO MONJE",
+            "NICOLAS GONZALEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "ENMANUEL GARCIA",
+            "DAINERIS BRAVO",
+            "LUCI REYES"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "FELIPE ARRIAGA",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Varonil",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "CARLOS ZAPATA",
+            "ALEJANDRO MARTINEZ",
+            "ELI MARTIN",
+            "FELIPE ARRIAGA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "GISEL SEGOVIA",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Femenil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "ANYELY CAPOTE",
+            "GISEL SEGOVIA",
+            "REGINA ESQUIVEL",
+            "KALIA RIVAS"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "17:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "EIDER PADRON",
+            "GISEL SEGOVIA",
+            "NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ISABELLA BARRETO",
+      "categorias": [
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "PATRICIO BURGOS",
+            "REGINA ESQUIVEL",
+            "LILI PEÑA",
+            "ISABELLA BARRETO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "JAVIER SEGOVIA",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "JAVIER SEGOVIA",
+            "ALEJANDRO ALVAREZ",
+            "SANTIAGO VIGIL"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 6",
+          "jugadores_grupo": [
+            "ANYELY CAPOTE",
+            "JAVIER SEGOVIA",
+            "MATEO SANCHEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 6 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "JIMENA MIRELES",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "SOFIA MONJE",
+            "JIMENA MIRELES",
+            "YAXKIN ALVAREZ",
+            "MARCELO CASTILLO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "JONATAN LEON",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "JONATAN LEON",
+            "MATEO SANCHEZ",
+            "AMAURI VALENCIA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Primera Categoría Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "JUAN RONDON",
+            "JONATAN LEON",
+            "MANUEL NOZ",
+            "NICOLAS ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "JORGE RODRIGUEZ",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "JORGE RODRIGUEZ",
+            "YUCEF ESPAÑA",
+            "TITO SANCHEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Primera Categoría Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "DIOMAR ARGUELLES",
+            "JUAN JIMENES",
+            "JORGE RODRIGUEZ",
+            "EMILIANO VILLAGRAN"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "JUAN JIMENES",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "DIOMAR ARGUELLES",
+            "JUAN JIMENES",
+            "JORGE RODRIGUEZ",
+            "EMILIANO VILLAGRAN"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "JUAN RONDON",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "JUAN RONDON",
+            "JONATAN LEON",
+            "MANUEL NOZ",
+            "NICOLAS ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "KALIA RIVAS",
+      "categorias": [
+        {
+          "nombre": "U11 Femenil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "KALIA RIVAS",
+            "REGINA ELIAS",
+            "NADIA CELIS"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Primera Categoría Femenil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "ANYELY CAPOTE",
+            "GISEL SEGOVIA",
+            "REGINA ESQUIVEL",
+            "KALIA RIVAS"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "17:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "KENDRA CABRERA",
+      "categorias": [
+        {
+          "nombre": "U11 Femenil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ",
+            "SOFIA MONGE",
+            "LUCIA GONZALEZ",
+            "KENDRA CABRERA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "LILI PEÑA",
+      "categorias": [
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "PATRICIO BURGOS",
+            "REGINA ESQUIVEL",
+            "LILI PEÑA",
+            "ISABELLA BARRETO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "LUCI REYES",
+      "categorias": [
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "ENMANUEL GARCIA",
+            "DAINERIS BRAVO",
+            "LUCI REYES"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "LUCIA GONZALEZ",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "MAURICIO RODRIGUEZ",
+            "SANTIAGO MONJE",
+            "LUCIA GONZALEZ",
+            "CARLOS PEREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U11 Femenil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ",
+            "SOFIA MONGE",
+            "LUCIA GONZALEZ",
+            "KENDRA CABRERA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MANUEL NOZ",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "JUAN RONDON",
+            "JONATAN LEON",
+            "MANUEL NOZ",
+            "NICOLAS ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MARCELO CASTILLO",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "SOFIA MONJE",
+            "JIMENA MIRELES",
+            "YAXKIN ALVAREZ",
+            "MARCELO CASTILLO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U11 Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "AARON ALVAREZ",
+            "NICOLAS GONZALEZ",
+            "MARCELO CASTILLO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MARIO CASTILLO",
+      "categorias": [
+        {
+          "nombre": "U13 Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "YAUCEL ALVAREZ",
+            "MAURICIO RODRIGUEZ",
+            "MARIO CASTILLO",
+            "YAXKIN ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MATEO SANCHEZ",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "JONATAN LEON",
+            "MATEO SANCHEZ",
+            "AMAURI VALENCIA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 6",
+          "jugadores_grupo": [
+            "ANYELY CAPOTE",
+            "JAVIER SEGOVIA",
+            "MATEO SANCHEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 6 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MAURICIO RODRIGUEZ",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "MAURICIO RODRIGUEZ",
+            "SANTIAGO MONJE",
+            "LUCIA GONZALEZ",
+            "CARLOS PEREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U11 Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAURICIO RODRIGUEZ",
+            "SAID HERNANDEZ",
+            "SAUL PECH"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U13 Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "YAUCEL ALVAREZ",
+            "MAURICIO RODRIGUEZ",
+            "MARIO CASTILLO",
+            "YAXKIN ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MAYA MARQUEZ",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ",
+            "NICOLAS GONZALEZ",
+            "NADIA CELIS",
+            "SAID HERNANDEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U11 Femenil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ",
+            "SOFIA MONGE",
+            "LUCIA GONZALEZ",
+            "KENDRA CABRERA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MORAYLE LOVO",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Femenil",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "DANIELA LOPEZ",
+            "ADRIANA BODE",
+            "MORAYLE LOVO",
+            "CLAUDIA PEREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "17:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "EMMANUEL CARDOS",
+            "MORAYLE LOVO",
+            "DANIEL BELTRAN"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "NADIA CELIS",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ",
+            "NICOLAS GONZALEZ",
+            "NADIA CELIS",
+            "SAID HERNANDEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U11 Femenil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "KALIA RIVAS",
+            "REGINA ELIAS",
+            "NADIA CELIS"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "NATZIN HERNANDEZ",
+      "categorias": [
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "NATZIN HERNANDEZ",
+            "DANIELA LOPEZ",
+            "ALEJANDRO ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "NICOLAS ALVAREZ",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 5",
+          "jugadores_grupo": [
+            "DIEGO CORAL",
+            "NICOLAS ALVAREZ",
+            "PATRICIO BURGOS"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 5 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Primera Categoría Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "JUAN RONDON",
+            "JONATAN LEON",
+            "MANUEL NOZ",
+            "NICOLAS ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "NICOLAS GONZALEZ",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ",
+            "NICOLAS GONZALEZ",
+            "NADIA CELIS",
+            "SAID HERNANDEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U11 Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "AARON ALVAREZ",
+            "NICOLAS GONZALEZ",
+            "MARCELO CASTILLO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U13 Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "ENMANUEL GARCIA",
+            "AARON ALVAREZ",
+            "SANTIAGO MONJE",
+            "NICOLAS GONZALEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "NICOLAS MENA",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "ALEJANDRO MARTINEZ",
+            "EMMANUEL CARDOS",
+            "NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "EIDER PADRON",
+            "GISEL SEGOVIA",
+            "NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "PATRICIO BURGOS",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 5",
+          "jugadores_grupo": [
+            "DIEGO CORAL",
+            "NICOLAS ALVAREZ",
+            "PATRICIO BURGOS"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 5 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "PATRICIO BURGOS",
+            "REGINA ESQUIVEL",
+            "LILI PEÑA",
+            "ISABELLA BARRETO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "RAUL TAPIA",
+      "categorias": [
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "RAUL TAPIA",
+            "ADRIANA BODE",
+            "YUCEF ESPAÑA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "REGINA ELIAS",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "REGINA ELIAS",
+            "ASHLIN PEREZ",
+            "SAUL PECH",
+            "DAVID PEREIRA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U11 Femenil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "KALIA RIVAS",
+            "REGINA ELIAS",
+            "NADIA CELIS"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "REGINA ESQUIVEL",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Femenil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "ANYELY CAPOTE",
+            "GISEL SEGOVIA",
+            "REGINA ESQUIVEL",
+            "KALIA RIVAS"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "17:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "PATRICIO BURGOS",
+            "REGINA ESQUIVEL",
+            "LILI PEÑA",
+            "ISABELLA BARRETO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "SAID HERNANDEZ",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ",
+            "NICOLAS GONZALEZ",
+            "NADIA CELIS",
+            "SAID HERNANDEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U11 Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAURICIO RODRIGUEZ",
+            "SAID HERNANDEZ",
+            "SAUL PECH"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "SANTIAGO MONJE",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "MAURICIO RODRIGUEZ",
+            "SANTIAGO MONJE",
+            "LUCIA GONZALEZ",
+            "CARLOS PEREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U13 Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "ENMANUEL GARCIA",
+            "AARON ALVAREZ",
+            "SANTIAGO MONJE",
+            "NICOLAS GONZALEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "SANTIAGO VIGIL",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "JAVIER SEGOVIA",
+            "ALEJANDRO ALVAREZ",
+            "SANTIAGO VIGIL"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "SANTIAGO VIGIL",
+            "TITO SANCHEZ",
+            "CLAUDIA PEREZ",
+            "ABIGAIL PECH"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "SAUL PECH",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "REGINA ELIAS",
+            "ASHLIN PEREZ",
+            "SAUL PECH",
+            "DAVID PEREIRA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U11 Varonil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAURICIO RODRIGUEZ",
+            "SAID HERNANDEZ",
+            "SAUL PECH"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "SOFIA MONGE",
+      "categorias": [
+        {
+          "nombre": "U11 Femenil",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ",
+            "SOFIA MONGE",
+            "LUCIA GONZALEZ",
+            "KENDRA CABRERA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 2 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "SOFIA MONJE",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "SOFIA MONJE",
+            "JIMENA MIRELES",
+            "YAXKIN ALVAREZ",
+            "MARCELO CASTILLO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "TITO SANCHEZ",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "JORGE RODRIGUEZ",
+            "YUCEF ESPAÑA",
+            "TITO SANCHEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Tercera Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "SANTIAGO VIGIL",
+            "TITO SANCHEZ",
+            "CLAUDIA PEREZ",
+            "ABIGAIL PECH"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "20:20",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "VIVIAN PACHECO",
+      "categorias": [
+        {
+          "nombre": "Primera Categoría Femenil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "VIVIAN PACHECO",
+            "ARANZA SANCHEZ",
+            "DAINEARIS BRAVO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "17:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 5",
+          "jugadores_grupo": [
+            "VIVIAN PACHECO",
+            "DIEGO CORAL",
+            "AMAURI VALENCIA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 5 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "YAUCEL ALVAREZ",
+      "categorias": [
+        {
+          "nombre": "U13 Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "YAUCEL ALVAREZ",
+            "MAURICIO RODRIGUEZ",
+            "MARIO CASTILLO",
+            "YAXKIN ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "YAXKIN ALVAREZ",
+      "categorias": [
+        {
+          "nombre": "Cuarta Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "SOFIA MONJE",
+            "JIMENA MIRELES",
+            "YAXKIN ALVAREZ",
+            "MARCELO CASTILLO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "18:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "U13 Varonil",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "YAUCEL ALVAREZ",
+            "MAURICIO RODRIGUEZ",
+            "MARIO CASTILLO",
+            "YAXKIN ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "10:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 1 — fase eliminatoria"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "19:20",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "10:40",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "YUCEF ESPAÑA",
+      "categorias": [
+        {
+          "nombre": "U19 Varonil",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "JORGE RODRIGUEZ",
+            "YUCEF ESPAÑA",
+            "TITO SANCHEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 3 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:00",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:00",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "13:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        },
+        {
+          "nombre": "Segunda Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "RAUL TAPIA",
+            "ADRIANA BODE",
+            "YUCEF ESPAÑA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "16:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Grupo Grupo 4 — fase eliminatoria"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:00",
+              "fase": "octavos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:20",
+              "fase": "cuartos",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "11:40",
+              "fase": "semifinal",
+              "rival": null,
+              "nota": "Si clasifica"
+            },
+            {
+              "dia": "Domingo",
+              "hora": "12:20",
+              "fase": "final",
+              "rival": null,
+              "nota": "Si clasifica"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
