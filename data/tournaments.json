@@ -1,7 +1,89 @@
 {
+  "proximos_eventos": [
+    {
+      "id": "liga-mayo-2026",
+      "nombre": "Liga Regional — Fecha 3",
+      "fecha_inicio": "2026-05-15",
+      "fecha_fin": "2026-05-17",
+      "tipo": "liga",
+      "venue": "Unidad Deportiva Benito Juárez García, Mérida",
+      "horarios": "Matutina 9:30–13:00 · Vespertina 16:00–19:00",
+      "archivo": null,
+      "nota": "Programa por confirmar"
+    },
+    {
+      "id": "olimpiada-nacional-2026",
+      "nombre": "Olimpiada Nacional CONADE 2026",
+      "fecha_inicio": "2026-05-25",
+      "fecha_fin": "2026-05-30",
+      "tipo": "nacional",
+      "venue": "Puebla",
+      "horarios": "Por confirmar",
+      "archivo": null,
+      "nota": "Entrada 24 mayo · Salida 31 mayo"
+    },
+    {
+      "id": "liga-julio-2026",
+      "nombre": "Liga Regional — Fecha 4",
+      "fecha_inicio": "2026-07-17",
+      "fecha_fin": "2026-07-19",
+      "tipo": "liga",
+      "venue": "Unidad Deportiva Benito Juárez García, Mérida",
+      "horarios": "Matutina 9:30–13:00 · Vespertina 16:00–19:00",
+      "archivo": null,
+      "nota": "Programa por confirmar"
+    },
+    {
+      "id": "liga-agosto-2026",
+      "nombre": "Liga Regional — Fecha 5",
+      "fecha_inicio": "2026-08-14",
+      "fecha_fin": "2026-08-16",
+      "tipo": "liga",
+      "venue": "Unidad Deportiva Benito Juárez García, Mérida",
+      "horarios": "Matutina 9:30–13:00 · Vespertina 16:00–19:00",
+      "archivo": null,
+      "nota": "Programa por confirmar"
+    },
+    {
+      "id": "liga-septiembre-2026",
+      "nombre": "Liga Regional — Fecha 6",
+      "fecha_inicio": "2026-09-25",
+      "fecha_fin": "2026-09-27",
+      "tipo": "liga",
+      "venue": "Unidad Deportiva Benito Juárez García, Mérida",
+      "horarios": "Matutina 9:30–13:00 · Vespertina 16:00–19:00",
+      "archivo": null,
+      "nota": "Programa por confirmar"
+    },
+    {
+      "id": "liga-octubre-2026",
+      "nombre": "Liga Regional — Fecha 7",
+      "fecha_inicio": "2026-10-09",
+      "fecha_fin": "2026-10-11",
+      "tipo": "liga",
+      "venue": "Unidad Deportiva Benito Juárez García, Mérida",
+      "horarios": "Matutina 9:30–13:00 · Vespertina 16:00–19:00",
+      "archivo": null,
+      "nota": "Programa por confirmar"
+    },
+    {
+      "id": "liga-noviembre-2026",
+      "nombre": "Liga Regional — Fecha 8",
+      "fecha_inicio": "2026-11-13",
+      "fecha_fin": "2026-11-15",
+      "tipo": "liga",
+      "venue": "Unidad Deportiva Benito Juárez García, Mérida",
+      "horarios": "Matutina 9:30–13:00 · Vespertina 16:00–19:00",
+      "archivo": null,
+      "nota": "Programa por confirmar"
+    }
+  ],
   "torneos": [
     {
-      "nombre": "Liga Regional Abril 2026",
+      "id": "liga-abril-2026",
+      "nombre": "Liga Regional — Fecha 2",
+      "fecha_inicio": "2026-04-25",
+      "fecha_fin": "2026-04-26",
       "archivo": "torneo-abril-2026.json"
     }
   ]
