@@ -282,6 +282,19 @@
       ]
     },
     {
+  "nombre": "LUIS LAZCANO",
+  "categorias": [
+    {
+      "nombre": "Individual Segunda Categoría",
+      "grupo": "Grupo 4",
+      "jugadores_grupo": ["DANIELA LOPEZ (YUC)", "YUCEF ESPAÑA (YUC)", "LUIS LAZCANO (YUC)"],
+      "partidos": [
+        { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+      ]
+    }
+  ]
+},
+    {
       "nombre": "MARIO CASTILLO",
       "categorias": [
         {
