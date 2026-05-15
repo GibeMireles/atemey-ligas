@@ -85,6 +85,13 @@
       "fecha_inicio": "2026-04-25",
       "fecha_fin": "2026-04-26",
       "archivo": "torneo-abril-2026.json"
+    },
+    {
+      "id": "liga-mayo-2026",
+      "nombre": "Liga Regional — Fecha 3",
+      "fecha_inicio": "2026-05-14",
+      "fecha_fin": "2026-05-18",
+      "archivo": "torneo-mayo-2026.json"
     }
   ]
 }
