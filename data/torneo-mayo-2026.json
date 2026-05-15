@@ -1,0 +1,550 @@
+{
+  "nombre": "Liga Regional de Tenis de Mesa Yucatán 2026 — Fecha 3",
+  "jugadores": [
+    {
+      "nombre": "ABIGAIL PECH",
+      "categorias": [
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": ["ENMANUEL GARCIA (YUC)", "PATRICIO BURGOS (YUC)", "ABIGAIL PECH (YUC)", "NICOLAS GONZALEZ (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ALEJANDRO ALVAREZ",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": ["RAUL TAPIA (YUC)", "ALEJANDRO ALVAREZ (YUC)", "NICOLAS MENA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Primera Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ANYELY CAPOTE",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["ANYELY CAPOTE (CUB)", "DIEGO CORAL (YUC)", "EMMANUEL CARDOS (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ADRIANA BODE",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 5",
+          "jugadores_grupo": ["ADRIANA BODE (CUB)", "MARIANA NOZ (YUC)", "MATEO SANCHEZ (YUC)", "LEONARDO MENA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ARANZA SANCHEZ",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 6",
+          "jugadores_grupo": ["JAVIER SEGOVIA (YUC)", "ARANZA SANCHEZ (YUC)", "TITO SANCHEZ (YUC)", "CARLOS HERRERA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "CARLOS HERRERA",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 6",
+          "jugadores_grupo": ["JAVIER SEGOVIA (YUC)", "ARANZA SANCHEZ (YUC)", "TITO SANCHEZ (YUC)", "CARLOS HERRERA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "DANIELA LOPEZ",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": ["DANIELA LOPEZ (YUC)", "YUCEF ESPAÑA (YUC)", "ENMANUEL GARCIA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "DENNIS LARA",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": ["DENNIS LARA (YUC)", "VIVIAN PACHECO (YUC)", "PATRICIO BURGOS (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "DIEGO CORAL",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["ANYELY CAPOTE (CUB)", "DIEGO CORAL (YUC)", "EMMANUEL CARDOS (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "DYLAN HAYMART",
+      "categorias": [
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": ["DYLAN HAYMART (CUB)", "MORAYLE LOVO (YUC)", "LUCIA MEDINA (YUC)", "MAURICIO RODRIGUEZ (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "EMMANUEL CARDOS",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["ANYELY CAPOTE (CUB)", "DIEGO CORAL (YUC)", "EMMANUEL CARDOS (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        },
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": ["TITO SANCHEZ (YUC)", "EMMANUEL CARDOS (YUC)", "ISABELLA BARRETO (YUC)", "MARIO CASTILLO (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ENMANUEL GARCIA",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": ["DANIELA LOPEZ (YUC)", "YUCEF ESPAÑA (YUC)", "ENMANUEL GARCIA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        },
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": ["ENMANUEL GARCIA (YUC)", "PATRICIO BURGOS (YUC)", "ABIGAIL PECH (YUC)", "NICOLAS GONZALEZ (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ISABELLA BARRETO",
+      "categorias": [
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": ["TITO SANCHEZ (YUC)", "EMMANUEL CARDOS (YUC)", "ISABELLA BARRETO (YUC)", "MARIO CASTILLO (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "JAVIER SEGOVIA",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 6",
+          "jugadores_grupo": ["JAVIER SEGOVIA (YUC)", "ARANZA SANCHEZ (YUC)", "TITO SANCHEZ (YUC)", "CARLOS HERRERA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "JIMENA MIRELES",
+      "categorias": [
+        {
+          "nombre": "Equipos Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["MAYA MARQUEZ / MAURICIO RODRIGUEZ", "REGINA ELIAS / NICOLAS GONZALEZ", "JIMENA MIRELES / YAXKIN ALVAREZ", "DAVID PEREIRA / MARCELO CASTILLO", "LUCIA GONZALEZ / SAUL PECH"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "17:00", "fase": "grupos", "rival": null, "nota": "Con YAXKIN ALVAREZ — R1" },
+            { "dia": "Jueves", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con YAXKIN ALVAREZ — R2" },
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con YAXKIN ALVAREZ — R3" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "KALIA RIVAS",
+      "categorias": [
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["REGINA ESQUIVEL (YUC)", "KALIA RIVAS (CUB)", "LUCI REYES (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "LEONARDO MENA",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 5",
+          "jugadores_grupo": ["ADRIANA BODE (CUB)", "MARIANA NOZ (YUC)", "MATEO SANCHEZ (YUC)", "LEONARDO MENA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "LUCI REYES",
+      "categorias": [
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["REGINA ESQUIVEL (YUC)", "KALIA RIVAS (CUB)", "LUCI REYES (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "LUCIA GONZALEZ",
+      "categorias": [
+        {
+          "nombre": "Equipos Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["MAYA MARQUEZ / MAURICIO RODRIGUEZ", "REGINA ELIAS / NICOLAS GONZALEZ", "JIMENA MIRELES / YAXKIN ALVAREZ", "DAVID PEREIRA / MARCELO CASTILLO", "LUCIA GONZALEZ / SAUL PECH"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "17:00", "fase": "grupos", "rival": null, "nota": "Con SAUL PECH — R1" },
+            { "dia": "Jueves", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con SAUL PECH — R2" },
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con SAUL PECH — R3" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "LUCIA MEDINA",
+      "categorias": [
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": ["DYLAN HAYMART (CUB)", "MORAYLE LOVO (YUC)", "LUCIA MEDINA (YUC)", "MAURICIO RODRIGUEZ (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MARIO CASTILLO",
+      "categorias": [
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": ["TITO SANCHEZ (YUC)", "EMMANUEL CARDOS (YUC)", "ISABELLA BARRETO (YUC)", "MARIO CASTILLO (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MARIANA NOZ",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 5",
+          "jugadores_grupo": ["ADRIANA BODE (CUB)", "MARIANA NOZ (YUC)", "MATEO SANCHEZ (YUC)", "LEONARDO MENA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MATEO SANCHEZ",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 5",
+          "jugadores_grupo": ["ADRIANA BODE (CUB)", "MARIANA NOZ (YUC)", "MATEO SANCHEZ (YUC)", "LEONARDO MENA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MAURICIO RODRIGUEZ",
+      "categorias": [
+        {
+          "nombre": "Equipos Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["MAYA MARQUEZ / MAURICIO RODRIGUEZ", "REGINA ELIAS / NICOLAS GONZALEZ", "JIMENA MIRELES / YAXKIN ALVAREZ", "DAVID PEREIRA / MARCELO CASTILLO", "LUCIA GONZALEZ / SAUL PECH"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "17:00", "fase": "grupos", "rival": null, "nota": "Con MAYA MARQUEZ — R1" },
+            { "dia": "Jueves", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con MAYA MARQUEZ — R2" },
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con MAYA MARQUEZ — R3" }
+          ]
+        },
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": ["DYLAN HAYMART (CUB)", "MORAYLE LOVO (YUC)", "LUCIA MEDINA (YUC)", "MAURICIO RODRIGUEZ (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MAYA MARQUEZ",
+      "categorias": [
+        {
+          "nombre": "Equipos Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["MAYA MARQUEZ / MAURICIO RODRIGUEZ", "REGINA ELIAS / NICOLAS GONZALEZ", "JIMENA MIRELES / YAXKIN ALVAREZ", "DAVID PEREIRA / MARCELO CASTILLO", "LUCIA GONZALEZ / SAUL PECH"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "17:00", "fase": "grupos", "rival": null, "nota": "Con MAURICIO RODRIGUEZ — R1" },
+            { "dia": "Jueves", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con MAURICIO RODRIGUEZ — R2" },
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con MAURICIO RODRIGUEZ — R3" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "MORAYLE LOVO",
+      "categorias": [
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": ["DYLAN HAYMART (CUB)", "MORAYLE LOVO (YUC)", "LUCIA MEDINA (YUC)", "MAURICIO RODRIGUEZ (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "NICOLAS GONZALEZ",
+      "categorias": [
+        {
+          "nombre": "Equipos Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["MAYA MARQUEZ / MAURICIO RODRIGUEZ", "REGINA ELIAS / NICOLAS GONZALEZ", "JIMENA MIRELES / YAXKIN ALVAREZ", "DAVID PEREIRA / MARCELO CASTILLO", "LUCIA GONZALEZ / SAUL PECH"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "17:00", "fase": "grupos", "rival": null, "nota": "Con REGINA ELIAS — R1" },
+            { "dia": "Jueves", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con REGINA ELIAS — R2" },
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con REGINA ELIAS — R3" }
+          ]
+        },
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": ["ENMANUEL GARCIA (YUC)", "PATRICIO BURGOS (YUC)", "ABIGAIL PECH (YUC)", "NICOLAS GONZALEZ (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "NICOLAS MENA",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": ["RAUL TAPIA (YUC)", "ALEJANDRO ALVAREZ (YUC)", "NICOLAS MENA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "PATRICIO BURGOS",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": ["DENNIS LARA (YUC)", "VIVIAN PACHECO (YUC)", "PATRICIO BURGOS (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        },
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": ["ENMANUEL GARCIA (YUC)", "PATRICIO BURGOS (YUC)", "ABIGAIL PECH (YUC)", "NICOLAS GONZALEZ (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "RAUL TAPIA",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": ["RAUL TAPIA (YUC)", "ALEJANDRO ALVAREZ (YUC)", "NICOLAS MENA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "REGINA ELIAS",
+      "categorias": [
+        {
+          "nombre": "Equipos Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["MAYA MARQUEZ / MAURICIO RODRIGUEZ", "REGINA ELIAS / NICOLAS GONZALEZ", "JIMENA MIRELES / YAXKIN ALVAREZ", "DAVID PEREIRA / MARCELO CASTILLO", "LUCIA GONZALEZ / SAUL PECH"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "17:00", "fase": "grupos", "rival": null, "nota": "Con NICOLAS GONZALEZ — R1" },
+            { "dia": "Jueves", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con NICOLAS GONZALEZ — R2" },
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con NICOLAS GONZALEZ — R3" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "REGINA ESQUIVEL",
+      "categorias": [
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["REGINA ESQUIVEL (YUC)", "KALIA RIVAS (CUB)", "LUCI REYES (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "SAUL PECH",
+      "categorias": [
+        {
+          "nombre": "Equipos Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["MAYA MARQUEZ / MAURICIO RODRIGUEZ", "REGINA ELIAS / NICOLAS GONZALEZ", "JIMENA MIRELES / YAXKIN ALVAREZ", "DAVID PEREIRA / MARCELO CASTILLO", "LUCIA GONZALEZ / SAUL PECH"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "17:00", "fase": "grupos", "rival": null, "nota": "Con LUCIA GONZALEZ — R1" },
+            { "dia": "Jueves", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con LUCIA GONZALEZ — R2" },
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con LUCIA GONZALEZ — R3" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "TITO SANCHEZ",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 6",
+          "jugadores_grupo": ["JAVIER SEGOVIA (YUC)", "ARANZA SANCHEZ (YUC)", "TITO SANCHEZ (YUC)", "CARLOS HERRERA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        },
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": ["TITO SANCHEZ (YUC)", "EMMANUEL CARDOS (YUC)", "ISABELLA BARRETO (YUC)", "MARIO CASTILLO (YUC)"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "19:00", "fase": "grupos", "rival": null, "nota": "Individual Tercera Fuerza Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "VIVIAN PACHECO",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": ["DENNIS LARA (YUC)", "VIVIAN PACHECO (YUC)", "PATRICIO BURGOS (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "YAXKIN ALVAREZ",
+      "categorias": [
+        {
+          "nombre": "Equipos Tercera Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": ["MAYA MARQUEZ / MAURICIO RODRIGUEZ", "REGINA ELIAS / NICOLAS GONZALEZ", "JIMENA MIRELES / YAXKIN ALVAREZ", "DAVID PEREIRA / MARCELO CASTILLO", "LUCIA GONZALEZ / SAUL PECH"],
+          "partidos": [
+            { "dia": "Jueves", "hora": "17:00", "fase": "grupos", "rival": null, "nota": "Con JIMENA MIRELES — R1" },
+            { "dia": "Jueves", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con JIMENA MIRELES — R2" },
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Con JIMENA MIRELES — R3" }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "YUCEF ESPAÑA",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": ["DANIELA LOPEZ (YUC)", "YUCEF ESPAÑA (YUC)", "ENMANUEL GARCIA (YUC)"],
+          "partidos": [
+            { "dia": "Viernes", "hora": "18:00", "fase": "grupos", "rival": null, "nota": "Individual Segunda Categoría Grupos" }
+          ]
+        }
+      ]
+    }
+  ]
+}
