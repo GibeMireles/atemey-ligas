@@ -253,6 +253,29 @@
       ]
     },
     {
+      "nombre": "DAVID PEREIRA",
+      "categorias": [
+        {
+          "nombre": "Individual Cuarta Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ",
+            "NICOLAS MENA",
+            "DAVID PEREIRA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "09:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Cuarta Categoría Grupos"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "nombre": "DENNIS LARA",
       "categorias": [
         {
@@ -317,14 +340,11 @@
       "categorias": [
         {
           "nombre": "Dobles Tercera Categoría",
-          "grupo": "Dobles",
+          "grupo": "Grupo 1",
           "jugadores_grupo": [
-            "MAYA / LUCIA o REGINA",
-            "NAIMA / LUCIA o REGINA",
-            "JIMENA / DIOR",
-            "MAURICIO / NICOLAS GONZALEZ",
-            "YAXKIN / ELIAN",
-            "SAUL / MARCELO"
+            "NICOLAS GONZALEZ / MAURICIO RODRIGUEZ",
+            "JIMENA MIRELES / DIOR",
+            "YAXKIN ALVAREZ / ELIAN"
           ],
           "partidos": [
             {
@@ -367,14 +387,11 @@
       "categorias": [
         {
           "nombre": "Dobles Tercera Categoría",
-          "grupo": "Dobles",
+          "grupo": "Grupo 1",
           "jugadores_grupo": [
-            "MAYA / LUCIA o REGINA",
-            "NAIMA / LUCIA o REGINA",
-            "JIMENA / DIOR",
-            "MAURICIO / NICOLAS GONZALEZ",
-            "YAXKIN / ELIAN",
-            "SAUL / MARCELO"
+            "NICOLAS GONZALEZ / MAURICIO RODRIGUEZ",
+            "JIMENA MIRELES / DIOR",
+            "YAXKIN ALVAREZ / ELIAN"
           ],
           "partidos": [
             {
@@ -653,14 +670,11 @@
         },
         {
           "nombre": "Dobles Tercera Categoría",
-          "grupo": "Dobles",
+          "grupo": "Grupo 1",
           "jugadores_grupo": [
-            "MAYA / LUCIA o REGINA",
-            "NAIMA / LUCIA o REGINA",
-            "JIMENA / DIOR",
-            "MAURICIO / NICOLAS GONZALEZ",
-            "YAXKIN / ELIAN",
-            "SAUL / MARCELO"
+            "NICOLAS GONZALEZ / MAURICIO RODRIGUEZ",
+            "JIMENA MIRELES / DIOR",
+            "YAXKIN ALVAREZ / ELIAN"
           ],
           "partidos": [
             {
@@ -669,6 +683,24 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Con DIOR"
+            }
+          ]
+        },
+        {
+          "nombre": "Individual Cuarta Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAURICIO RODRIGUEZ",
+            "JIMENA MIRELES",
+            "YAXKIN ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "09:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Cuarta Categoría Grupos"
             }
           ]
         }
@@ -714,6 +746,24 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Con EMMANUEL CARDOS"
+            }
+          ]
+        },
+        {
+          "nombre": "Individual Cuarta Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "KALIA RIVAS",
+            "SAUL PECH",
+            "SAID HERNANDEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "09:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Cuarta Categoría Grupos"
             }
           ]
         }
@@ -836,6 +886,42 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Equipos Tercera Cat — R4"
+            }
+          ]
+        },
+        {
+          "nombre": "Dobles Tercera Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ / LUCIA GONZALEZ",
+            "SAUL PECH / MARCELO CASTILLO",
+            "REGINA ELIAS / NAIMA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con MAYA MARQUEZ"
+            }
+          ]
+        },
+        {
+          "nombre": "Individual Cuarta Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "REGINA ELIAS",
+            "LUCIA GONZALEZ",
+            "MARCELO CASTILLO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "09:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Cuarta Categoría Grupos"
             }
           ]
         }
@@ -1082,14 +1168,11 @@
         },
         {
           "nombre": "Dobles Tercera Categoría",
-          "grupo": "Dobles",
+          "grupo": "Grupo 1",
           "jugadores_grupo": [
-            "MAYA / LUCIA o REGINA",
-            "NAIMA / LUCIA o REGINA",
-            "JIMENA / DIOR",
-            "MAURICIO / NICOLAS GONZALEZ",
-            "YAXKIN / ELIAN",
-            "SAUL / MARCELO"
+            "NICOLAS GONZALEZ / MAURICIO RODRIGUEZ",
+            "JIMENA MIRELES / DIOR",
+            "YAXKIN ALVAREZ / ELIAN"
           ],
           "partidos": [
             {
@@ -1098,6 +1181,24 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Con NICOLAS GONZALEZ"
+            }
+          ]
+        },
+        {
+          "nombre": "Individual Cuarta Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAURICIO RODRIGUEZ",
+            "JIMENA MIRELES",
+            "YAXKIN ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "09:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Cuarta Categoría Grupos"
             }
           ]
         }
@@ -1149,14 +1250,11 @@
         },
         {
           "nombre": "Dobles Tercera Categoría",
-          "grupo": "Dobles",
+          "grupo": "Grupo 2",
           "jugadores_grupo": [
-            "MAYA / LUCIA o REGINA",
-            "NAIMA / LUCIA o REGINA",
-            "JIMENA / DIOR",
-            "MAURICIO / NICOLAS GONZALEZ",
-            "YAXKIN / ELIAN",
-            "SAUL / MARCELO"
+            "MAYA MARQUEZ / LUCIA GONZALEZ",
+            "SAUL PECH / MARCELO CASTILLO",
+            "REGINA ELIAS / NAIMA"
           ],
           "partidos": [
             {
@@ -1164,7 +1262,25 @@
               "hora": "08:30",
               "fase": "grupos",
               "rival": null,
-              "nota": "Con LUCIA o REGINA — pareja por definir"
+              "nota": "Con LUCIA GONZALEZ"
+            }
+          ]
+        },
+        {
+          "nombre": "Individual Cuarta Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ",
+            "NICOLAS MENA",
+            "DAVID PEREIRA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "09:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Cuarta Categoría Grupos"
             }
           ]
         }
@@ -1221,14 +1337,11 @@
       "categorias": [
         {
           "nombre": "Dobles Tercera Categoría",
-          "grupo": "Dobles",
+          "grupo": "Grupo 2",
           "jugadores_grupo": [
-            "MAYA / LUCIA o REGINA",
-            "NAIMA / LUCIA o REGINA",
-            "JIMENA / DIOR",
-            "MAURICIO / NICOLAS GONZALEZ",
-            "YAXKIN / ELIAN",
-            "SAUL / MARCELO"
+            "MAYA MARQUEZ / LUCIA GONZALEZ",
+            "SAUL PECH / MARCELO CASTILLO",
+            "REGINA ELIAS / NAIMA"
           ],
           "partidos": [
             {
@@ -1236,7 +1349,7 @@
               "hora": "08:30",
               "fase": "grupos",
               "rival": null,
-              "nota": "Pareja por definir (Lucia o Regina)"
+              "nota": "Con REGINA ELIAS"
             }
           ]
         }
@@ -1307,14 +1420,11 @@
         },
         {
           "nombre": "Dobles Tercera Categoría",
-          "grupo": "Dobles",
+          "grupo": "Grupo 1",
           "jugadores_grupo": [
-            "MAYA / LUCIA o REGINA",
-            "NAIMA / LUCIA o REGINA",
-            "JIMENA / DIOR",
-            "MAURICIO / NICOLAS GONZALEZ",
-            "YAXKIN / ELIAN",
-            "SAUL / MARCELO"
+            "NICOLAS GONZALEZ / MAURICIO RODRIGUEZ",
+            "JIMENA MIRELES / DIOR",
+            "YAXKIN ALVAREZ / ELIAN"
           ],
           "partidos": [
             {
@@ -1375,6 +1485,24 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Con ABIGAIL PECH"
+            }
+          ]
+        },
+        {
+          "nombre": "Individual Cuarta Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "MAYA MARQUEZ",
+            "NICOLAS MENA",
+            "DAVID PEREIRA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "09:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Cuarta Categoría Grupos"
             }
           ]
         }
@@ -1502,6 +1630,24 @@
               "nota": "Equipos Tercera Cat — R4"
             }
           ]
+        },
+        {
+          "nombre": "Individual Cuarta Categoría",
+          "grupo": "Grupo 4",
+          "jugadores_grupo": [
+            "REGINA ELIAS",
+            "LUCIA GONZALEZ",
+            "MARCELO CASTILLO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "09:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Cuarta Categoría Grupos"
+            }
+          ]
         }
       ]
     },
@@ -1545,6 +1691,29 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Con MATEO SANCHEZ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "SAID HERNANDEZ",
+      "categorias": [
+        {
+          "nombre": "Individual Cuarta Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "KALIA RIVAS",
+            "SAUL PECH",
+            "SAID HERNANDEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "09:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Cuarta Categoría Grupos"
             }
           ]
         }
@@ -1596,14 +1765,11 @@
         },
         {
           "nombre": "Dobles Tercera Categoría",
-          "grupo": "Dobles",
+          "grupo": "Grupo 2",
           "jugadores_grupo": [
-            "MAYA / LUCIA o REGINA",
-            "NAIMA / LUCIA o REGINA",
-            "JIMENA / DIOR",
-            "MAURICIO / NICOLAS GONZALEZ",
-            "YAXKIN / ELIAN",
-            "SAUL / MARCELO"
+            "MAYA MARQUEZ / LUCIA GONZALEZ",
+            "SAUL PECH / MARCELO CASTILLO",
+            "REGINA ELIAS / NAIMA"
           ],
           "partidos": [
             {
@@ -1612,6 +1778,24 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Con MARCELO CASTILLO"
+            }
+          ]
+        },
+        {
+          "nombre": "Individual Cuarta Categoría",
+          "grupo": "Grupo 1",
+          "jugadores_grupo": [
+            "KALIA RIVAS",
+            "SAUL PECH",
+            "SAID HERNANDEZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "09:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Cuarta Categoría Grupos"
             }
           ]
         }
@@ -1765,14 +1949,11 @@
         },
         {
           "nombre": "Dobles Tercera Categoría",
-          "grupo": "Dobles",
+          "grupo": "Grupo 1",
           "jugadores_grupo": [
-            "MAYA / LUCIA o REGINA",
-            "NAIMA / LUCIA o REGINA",
-            "JIMENA / DIOR",
-            "MAURICIO / NICOLAS GONZALEZ",
-            "YAXKIN / ELIAN",
-            "SAUL / MARCELO"
+            "NICOLAS GONZALEZ / MAURICIO RODRIGUEZ",
+            "JIMENA MIRELES / DIOR",
+            "YAXKIN ALVAREZ / ELIAN"
           ],
           "partidos": [
             {
@@ -1781,6 +1962,24 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Con ELIAN"
+            }
+          ]
+        },
+        {
+          "nombre": "Individual Cuarta Categoría",
+          "grupo": "Grupo 2",
+          "jugadores_grupo": [
+            "MAURICIO RODRIGUEZ",
+            "JIMENA MIRELES",
+            "YAXKIN ALVAREZ"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "09:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Cuarta Categoría Grupos"
             }
           ]
         }
