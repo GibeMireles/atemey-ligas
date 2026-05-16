@@ -32,7 +32,6 @@
       -webkit-font-smoothing: antialiased;
     }
 
-    /* ── HEADER ─────────────────────────────────────────── */
     header {
       background: var(--navy);
       color: var(--white);
@@ -77,7 +76,6 @@
     }
     #torneoSelector:focus { border-color: rgba(255,255,255,0.3); }
 
-    /* ── SEARCH ─────────────────────────────────────────── */
     .search-bar {
       background: var(--white);
       padding: 12px 16px;
@@ -105,10 +103,8 @@
     #buscador:focus        { border-color: var(--navy); }
     #buscador::placeholder { color: var(--gray-400); }
 
-    /* ── MAIN ───────────────────────────────────────────── */
     #main { padding: 16px; max-width: 640px; margin: 0 auto; }
 
-    /* ── EMPTY STATES ───────────────────────────────────── */
     .state-empty {
       text-align: center;
       padding: 56px 24px;
@@ -117,7 +113,6 @@
     .state-empty .icon { font-size: 52px; margin-bottom: 12px; }
     .state-empty p     { font-size: 0.9rem; line-height: 1.5; }
 
-    /* ── JUGADOR CARD ───────────────────────────────────── */
     .jugador-card {
       background: var(--white);
       border-radius: var(--radius);
@@ -141,7 +136,6 @@
       font-size: 0.7rem; padding: 3px 10px; white-space: nowrap;
     }
 
-    /* ── CATEGORÍA ──────────────────────────────────────── */
     .cat-section { border-top: 1px solid var(--gray-200); }
 
     .cat-head {
@@ -161,7 +155,6 @@
 
     .cat-body { padding: 12px 16px 14px; }
 
-    /* ── DAY TABS ───────────────────────────────────────── */
     .day-tabs { display: flex; gap: 6px; margin-bottom: 12px; flex-wrap: wrap; }
 
     .day-tab {
@@ -184,7 +177,6 @@
       display: block; font-size: 0.68rem; font-weight: 400; opacity: 0.75; margin-top: 1px;
     }
 
-    /* ── TIMELINE ───────────────────────────────────────── */
     .day-timeline        { display: none; }
     .day-timeline.active { display: block; }
 
@@ -227,7 +219,6 @@
       font-size: 0.83rem; padding: 14px 0 4px;
     }
 
-    /* ── GROUP BUTTON ───────────────────────────────────── */
     .btn-grupo {
       display: flex; align-items: center; gap: 7px;
       width: 100%; margin-top: 14px;
@@ -239,7 +230,6 @@
     }
     .btn-grupo:hover, .btn-grupo:active { background: var(--gray-200); }
 
-    /* ── MODAL ──────────────────────────────────────────── */
     .modal-overlay {
       display: none;
       position: fixed; inset: 0;
@@ -304,10 +294,8 @@
       padding: 2px 7px; border-radius: 10px; font-weight: 700;
     }
 
-    /* ── LOADING ────────────────────────────────────────── */
     .loading { text-align: center; color: var(--gray-400); padding: 40px 20px; font-size: 0.9rem; }
 
-    /* ── PRÓXIMOS EVENTOS ───────────────────────────────── */
     .evt-section {
       background: var(--white);
       border-bottom: 1px solid var(--gray-200);
@@ -387,7 +375,6 @@
     }
     .evt-ver-todos:hover { opacity: 1; }
 
-    /* ── RESPONSIVE ─────────────────────────────────────── */
     @media (min-width: 480px) {
       header { padding: 22px 20px 18px; }
       #main  { padding: 20px; }
@@ -396,7 +383,6 @@
 </head>
 <body>
 
-<!-- HEADER -->
 <header>
   <div class="header-row">
     <div class="logo">🏓</div>
@@ -410,10 +396,8 @@
   </div>
 </header>
 
-<!-- PRÓXIMOS EVENTOS (renderizado por JS) -->
 <div id="evtSection"></div>
 
-<!-- SEARCH -->
 <div class="search-bar">
   <div class="search-inner">
     <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"
@@ -425,7 +409,6 @@
   </div>
 </div>
 
-<!-- RESULTS -->
 <div id="main">
   <div class="state-empty">
     <div class="icon">🏓</div>
@@ -433,7 +416,6 @@
   </div>
 </div>
 
-<!-- GROUP MODAL -->
 <div class="modal-overlay" id="modalOverlay">
   <div class="modal-sheet">
     <div class="modal-handle"></div>
@@ -449,7 +431,6 @@
 </div>
 
 <script>
-// ─── Labels ───────────────────────────────────────────────────────────────────
 const FASE_LABEL = {
   grupos:    'Fase de grupos',
   octavos:   'Octavos de final',
@@ -458,15 +439,13 @@ const FASE_LABEL = {
   final:     'Final'
 };
 
-// ─── State ────────────────────────────────────────────────────────────────────
-let torneoData = null;
+let torneoData  = null;
 let debounceTimer = null;
 
-// ─── Bootstrap ────────────────────────────────────────────────────────────────
 (async function init() {
   const sel = document.getElementById('torneoSelector');
   try {
-    const res = await fetch('data/tournaments.json');
+    const res  = await fetch('data/tournaments.json');
     const data = await res.json();
     const { torneos, proximos_eventos } = data;
     if (!torneos || !torneos.length) throw new Error('empty');
@@ -496,7 +475,6 @@ async function loadTorneo(archivo) {
   }
 }
 
-// ─── Search ───────────────────────────────────────────────────────────────────
 document.getElementById('buscador').addEventListener('input', function () {
   clearTimeout(debounceTimer);
   const q = this.value.trim();
@@ -508,12 +486,12 @@ document.getElementById('buscador').addEventListener('input', function () {
 });
 
 function norm(s) {
-  return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+  return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 }
 
 function search(q) {
   if (!torneoData) return;
-  const qn = norm(q);
+  const qn  = norm(q);
   const hits = (torneoData.jugadores || []).filter(j => norm(j.nombre).includes(qn));
   if (!hits.length) {
     showMain(emptyState('😕', 'No se encontró "<strong>' + q + '</strong>"'));
@@ -522,7 +500,6 @@ function search(q) {
   showMain(hits.map(renderJugador).join(''));
 }
 
-// ─── Render: jugador ──────────────────────────────────────────────────────────
 function renderJugador(j) {
   const n = (j.categorias || []).length;
   return `
@@ -535,12 +512,10 @@ function renderJugador(j) {
     </div>`;
 }
 
-// ─── Render: categoría ────────────────────────────────────────────────────────
 function renderCategoria(nombreJugador, cat) {
-  // ID seguro para el DOM
   const uid = norm(nombreJugador + '_' + cat.nombre).replace(/[^a-z0-9]/g, '_');
 
-  // Extraer días únicos en orden de aparición desde los partidos
+  // Días únicos en orden de aparición
   const diasOrdenados = [];
   const diasSeen = new Set();
   (cat.partidos || []).forEach(p => {
@@ -550,7 +525,7 @@ function renderCategoria(nombreJugador, cat) {
     }
   });
 
-  // Agrupar partidos por día y ordenar por hora
+  // Agrupar partidos por día
   const porDia = {};
   diasOrdenados.forEach(d => (porDia[d] = []));
   (cat.partidos || []).forEach(p => {
@@ -560,27 +535,40 @@ function renderCategoria(nombreJugador, cat) {
 
   const primerDia = diasOrdenados[0] || '';
 
-  // Pestañas de días
-  const tabs = diasOrdenados.map(d => {
-    const n = porDia[d].length;
-    return `<button class="day-tab ${d === primerDia ? 'active' : ''}"
-      data-uid="${uid}" data-dia="${esc(d)}"
-      onclick="switchDay(this)">
-      ${esc(d)}
-      <span class="count">${n} partido${n !== 1 ? 's' : ''}</span>
-    </button>`;
-  }).join('');
+  // Pestañas — solo si hay más de un día
+  const tabs = diasOrdenados.length > 1
+    ? `<div class="day-tabs">
+        ${diasOrdenados.map(d => {
+          const n = porDia[d].length;
+          return `<button class="day-tab ${d === primerDia ? 'active' : ''}"
+            data-uid="${uid}" data-dia="${esc(d)}"
+            onclick="switchDay(this)">
+            ${esc(d)}
+            <span class="count">${n} partido${n !== 1 ? 's' : ''}</span>
+          </button>`;
+        }).join('')}
+       </div>`
+    : '';
 
-  // Timelines por día
-  const timelines = diasOrdenados.map(d => `
-    <div class="day-timeline ${d === primerDia ? 'active' : ''}" id="${uid}_day_${norm(d).replace(/[^a-z0-9]/g,'_')}">
-      ${porDia[d].length
-        ? porDia[d].map(renderPartido).join('')
-        : '<div class="no-partidos">Sin partidos este día</div>'}
-    </div>`
-  ).join('');
+  // ── FIX CLAVE: solo renderizar la timeline del día activo ──
+  // Si hay un solo día, mostrar directo sin display:none
+  let timelines = '';
+  if (diasOrdenados.length === 1) {
+    // Un solo día: renderizar partidos directamente, sin wrapper oculto
+    timelines = porDia[primerDia].length
+      ? porDia[primerDia].map(renderPartido).join('')
+      : '<div class="no-partidos">Sin partidos este día</div>';
+  } else {
+    // Varios días: solo el primero visible, el resto oculto
+    timelines = diasOrdenados.map(d => `
+      <div class="day-timeline ${d === primerDia ? 'active' : ''}"
+           id="${uid}_day_${norm(d).replace(/[^a-z0-9]/g,'_')}">
+        ${porDia[d].length
+          ? porDia[d].map(renderPartido).join('')
+          : '<div class="no-partidos">Sin partidos este día</div>'}
+      </div>`).join('');
+  }
 
-  // Datos del grupo para el modal (evitar inyección: JSON encodificado en atributo)
   const grupoData = esc(JSON.stringify({
     categoria: cat.nombre,
     grupo: cat.grupo,
@@ -595,7 +583,7 @@ function renderCategoria(nombreJugador, cat) {
         <span class="cat-grupo-badge">${esc(cat.grupo)}</span>
       </div>
       <div class="cat-body">
-        ${diasOrdenados.length > 1 ? `<div class="day-tabs">${tabs}</div>` : ''}
+        ${tabs}
         ${timelines}
         <button class="btn-grupo" data-grupo='${grupoData}' onclick="openGrupo(this)">
           👥 Ver todos del ${esc(cat.grupo)}
@@ -604,7 +592,6 @@ function renderCategoria(nombreJugador, cat) {
     </div>`;
 }
 
-// ─── Render: partido ──────────────────────────────────────────────────────────
 function renderPartido(p) {
   const faseKey   = (p.fase || '').toLowerCase();
   const faseLabel = FASE_LABEL[faseKey] || p.fase || '';
@@ -623,27 +610,23 @@ function renderPartido(p) {
     </div>`;
 }
 
-// ─── Tab switching ────────────────────────────────────────────────────────────
 function switchDay(btn) {
-  const uid = btn.dataset.uid;
-  const dia = btn.dataset.dia;
+  const uid   = btn.dataset.uid;
+  const dia   = btn.dataset.dia;
   const diaId = norm(dia).replace(/[^a-z0-9]/g, '_');
 
-  // Deactivate all tabs in this category
-  btn.closest('.cat-body').querySelectorAll('.day-tab').forEach(b => b.classList.remove('active'));
+  btn.closest('.cat-body').querySelectorAll('.day-tab')
+     .forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
 
-  // Show the correct timeline
   btn.closest('.cat-body').querySelectorAll('.day-timeline').forEach(el => {
     el.classList.toggle('active', el.id === uid + '_day_' + diaId);
   });
 }
 
-// ─── Group modal ──────────────────────────────────────────────────────────────
 function openGrupo(btn) {
   const data = JSON.parse(btn.dataset.grupo);
-  document.getElementById('modalTitle').textContent =
-    data.categoria + ' — ' + data.grupo;
+  document.getElementById('modalTitle').textContent    = data.categoria + ' — ' + data.grupo;
   document.getElementById('modalSubtitle').textContent =
     data.jugadores.length
       ? data.jugadores.length + ' jugador' + (data.jugadores.length !== 1 ? 'es' : '') + ' en este grupo'
@@ -668,18 +651,17 @@ function closeModal() {
   document.getElementById('modalOverlay').classList.remove('open');
 }
 
-// ─── Próximos eventos ─────────────────────────────────────────────────────────
 const MAX_VISIBLE = 3;
 
 function renderEventos(eventos) {
-  const hoy = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
+  const hoy     = new Date().toISOString().slice(0, 10);
   const vigentes = eventos.filter(e => e.fecha_fin >= hoy);
-  const seccion = document.getElementById('evtSection');
+  const seccion  = document.getElementById('evtSection');
   if (!vigentes.length) { seccion.innerHTML = ''; return; }
 
-  const visible  = vigentes.slice(0, MAX_VISIBLE);
-  const ocultos  = vigentes.slice(MAX_VISIBLE);
-  const hayMas   = ocultos.length > 0;
+  const visible = vigentes.slice(0, MAX_VISIBLE);
+  const ocultos = vigentes.slice(MAX_VISIBLE);
+  const hayMas  = ocultos.length > 0;
 
   seccion.innerHTML = `
     <div class="evt-section">
@@ -701,11 +683,11 @@ function renderEventos(eventos) {
 }
 
 function renderEvtRow(evt) {
-  const esLink  = !!evt.archivo;
-  const fecha   = formatFecha(evt.fecha_inicio, evt.fecha_fin);
-  const tipo    = (evt.tipo || 'liga').toLowerCase();
+  const esLink   = !!evt.archivo;
+  const fecha    = formatFecha(evt.fecha_inicio, evt.fecha_fin);
+  const tipo     = (evt.tipo || 'liga').toLowerCase();
   const badgeLbl = tipo === 'nacional' ? 'Nacional' : 'Liga';
-  const onclick = esLink
+  const onclick  = esLink
     ? `onclick="cargarDesdeEvento('${esc(evt.archivo)}')" role="button" tabindex="0"`
     : '';
   return `
@@ -739,19 +721,17 @@ function formatFecha(inicio, fin) {
   const d2 = new Date(fin    + 'T00:00:00');
   const m1 = MESES[d1.getMonth()];
   const m2 = MESES[d2.getMonth()];
-  if (inicio === fin)              return `${d1.getDate()} ${m1}`;
+  if (inicio === fin)                  return `${d1.getDate()} ${m1}`;
   if (d1.getMonth() === d2.getMonth()) return `${d1.getDate()}–${d2.getDate()} ${m1}`;
   return `${d1.getDate()} ${m1} – ${d2.getDate()} ${m2}`;
 }
 
-// ─── Helpers ──────────────────────────────────────────────────────────────────
 function showMain(html) { document.getElementById('main').innerHTML = html; }
 
 function emptyState(icon, msg) {
   return `<div class="state-empty"><div class="icon">${icon}</div><p>${msg}</p></div>`;
 }
 
-// Escapar HTML para evitar XSS al renderizar datos del JSON
 function esc(s) {
   if (s == null) return '';
   return String(s)
