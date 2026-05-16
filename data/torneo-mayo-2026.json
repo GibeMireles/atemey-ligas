@@ -22,6 +22,59 @@
               "nota": "Individual Tercera Fuerza Grupos"
             }
           ]
+        },
+        {
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con NICOLAS MENA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ADRIANA BODE",
+      "categorias": [
+        {
+          "nombre": "Individual Segunda Categoría",
+          "grupo": "Grupo 5",
+          "jugadores_grupo": [
+            "ADRIANA BODE (CUB)",
+            "MARIANA NOZ (YUC)",
+            "MATEO SANCHEZ (YUC)",
+            "LEONARDO MENA (YUC)"
+          ],
+          "partidos": [
+            {
+              "dia": "Viernes",
+              "hora": "18:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Segunda Categoría Grupos"
+            },
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Segunda Mixta"
+            }
+          ]
         }
       ]
     },
@@ -52,6 +105,28 @@
               "nota": "Individual Segunda Mixta"
             }
           ]
+        },
+        {
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con MORAYLE LOVO"
+            }
+          ]
         }
       ]
     },
@@ -65,37 +140,6 @@
             "ANYELY CAPOTE (CUB)",
             "DIEGO CORAL (YUC)",
             "EMMANUEL CARDOS (YUC)"
-          ],
-          "partidos": [
-            {
-              "dia": "Viernes",
-              "hora": "18:00",
-              "fase": "grupos",
-              "rival": null,
-              "nota": "Individual Segunda Categoría Grupos"
-            },
-            {
-              "dia": "Sábado",
-              "hora": "08:00",
-              "fase": "grupos",
-              "rival": null,
-              "nota": "Individual Segunda Mixta"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nombre": "ADRIANA BODE",
-      "categorias": [
-        {
-          "nombre": "Individual Segunda Categoría",
-          "grupo": "Grupo 5",
-          "jugadores_grupo": [
-            "ADRIANA BODE (CUB)",
-            "MARIANA NOZ (YUC)",
-            "MATEO SANCHEZ (YUC)",
-            "LEONARDO MENA (YUC)"
           ],
           "partidos": [
             {
@@ -269,6 +313,32 @@
       ]
     },
     {
+      "nombre": "DIOR",
+      "categorias": [
+        {
+          "nombre": "Dobles Tercera Categoría",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MAYA / LUCIA o REGINA",
+            "NAIMA / LUCIA o REGINA",
+            "JIMENA / DIOR",
+            "MAURICIO / NICOLAS GONZALEZ",
+            "YAXKIN / ELIAN",
+            "SAUL / MARCELO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con JIMENA MIRELES"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "nombre": "DYLAN HAYMART",
       "categorias": [
         {
@@ -287,6 +357,32 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Individual Tercera Fuerza Grupos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "ELIAN",
+      "categorias": [
+        {
+          "nombre": "Dobles Tercera Categoría",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MAYA / LUCIA o REGINA",
+            "NAIMA / LUCIA o REGINA",
+            "JIMENA / DIOR",
+            "MAURICIO / NICOLAS GONZALEZ",
+            "YAXKIN / ELIAN",
+            "SAUL / MARCELO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con YAXKIN ALVAREZ"
             }
           ]
         }
@@ -338,6 +434,28 @@
               "nota": "Individual Tercera Fuerza Grupos"
             }
           ]
+        },
+        {
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con KALIA RIVAS"
+            }
+          ]
         }
       ]
     },
@@ -387,6 +505,28 @@
               "nota": "Individual Tercera Fuerza Grupos"
             }
           ]
+        },
+        {
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con ISABELLA BARRETO"
+            }
+          ]
         }
       ]
     },
@@ -409,6 +549,28 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Individual Tercera Fuerza Grupos"
+            }
+          ]
+        },
+        {
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con ENMANUEL GARCIA"
             }
           ]
         }
@@ -488,6 +650,27 @@
               "nota": "Equipos Tercera Cat — R4"
             }
           ]
+        },
+        {
+          "nombre": "Dobles Tercera Categoría",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MAYA / LUCIA o REGINA",
+            "NAIMA / LUCIA o REGINA",
+            "JIMENA / DIOR",
+            "MAURICIO / NICOLAS GONZALEZ",
+            "YAXKIN / ELIAN",
+            "SAUL / MARCELO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con DIOR"
+            }
+          ]
         }
       ]
     },
@@ -509,6 +692,28 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Individual Tercera Fuerza Grupos"
+            }
+          ]
+        },
+        {
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con EMMANUEL CARDOS"
             }
           ]
         }
@@ -563,6 +768,28 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Individual Tercera Fuerza Grupos"
+            }
+          ]
+        },
+        {
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con MARIO CASTILLO"
             }
           ]
         }
@@ -635,28 +862,26 @@
               "nota": "Individual Tercera Fuerza Grupos"
             }
           ]
-        }
-      ]
-    },
-    {
-      "nombre": "MARIO CASTILLO",
-      "categorias": [
+        },
         {
-          "nombre": "Individual Tercera Categoría",
-          "grupo": "Grupo 3",
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
           "jugadores_grupo": [
-            "TITO SANCHEZ (YUC)",
-            "EMMANUEL CARDOS (YUC)",
-            "ISABELLA BARRETO (YUC)",
-            "MARIO CASTILLO (YUC)"
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
           ],
           "partidos": [
             {
-              "dia": "Jueves",
-              "hora": "19:00",
+              "dia": "Sábado",
+              "hora": "08:00",
               "fase": "grupos",
               "rival": null,
-              "nota": "Individual Tercera Fuerza Grupos"
+              "nota": "Con TITO SANCHEZ"
             }
           ]
         }
@@ -694,6 +919,52 @@
       ]
     },
     {
+      "nombre": "MARIO CASTILLO",
+      "categorias": [
+        {
+          "nombre": "Individual Tercera Categoría",
+          "grupo": "Grupo 3",
+          "jugadores_grupo": [
+            "TITO SANCHEZ (YUC)",
+            "EMMANUEL CARDOS (YUC)",
+            "ISABELLA BARRETO (YUC)",
+            "MARIO CASTILLO (YUC)"
+          ],
+          "partidos": [
+            {
+              "dia": "Jueves",
+              "hora": "19:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Individual Tercera Fuerza Grupos"
+            }
+          ]
+        },
+        {
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con LUCI REYES"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "nombre": "MATEO SANCHEZ",
       "categorias": [
         {
@@ -719,6 +990,28 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Individual Segunda Mixta"
+            }
+          ]
+        },
+        {
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con REGINA ESQUIVEL"
             }
           ]
         }
@@ -786,6 +1079,27 @@
               "nota": "Individual Tercera Fuerza Grupos"
             }
           ]
+        },
+        {
+          "nombre": "Dobles Tercera Categoría",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MAYA / LUCIA o REGINA",
+            "NAIMA / LUCIA o REGINA",
+            "JIMENA / DIOR",
+            "MAURICIO / NICOLAS GONZALEZ",
+            "YAXKIN / ELIAN",
+            "SAUL / MARCELO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con NICOLAS GONZALEZ"
+            }
+          ]
         }
       ]
     },
@@ -832,6 +1146,27 @@
               "nota": "Equipos Tercera Cat — R4"
             }
           ]
+        },
+        {
+          "nombre": "Dobles Tercera Categoría",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MAYA / LUCIA o REGINA",
+            "NAIMA / LUCIA o REGINA",
+            "JIMENA / DIOR",
+            "MAURICIO / NICOLAS GONZALEZ",
+            "YAXKIN / ELIAN",
+            "SAUL / MARCELO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con LUCIA o REGINA — pareja por definir"
+            }
+          ]
         }
       ]
     },
@@ -854,6 +1189,54 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Individual Tercera Fuerza Grupos"
+            }
+          ]
+        },
+        {
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con ALEJANDRO ALVAREZ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "NAIMA",
+      "categorias": [
+        {
+          "nombre": "Dobles Tercera Categoría",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MAYA / LUCIA o REGINA",
+            "NAIMA / LUCIA o REGINA",
+            "JIMENA / DIOR",
+            "MAURICIO / NICOLAS GONZALEZ",
+            "YAXKIN / ELIAN",
+            "SAUL / MARCELO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Pareja por definir (Lucia o Regina)"
             }
           ]
         }
@@ -921,6 +1304,27 @@
               "nota": "Individual Tercera Fuerza Grupos"
             }
           ]
+        },
+        {
+          "nombre": "Dobles Tercera Categoría",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MAYA / LUCIA o REGINA",
+            "NAIMA / LUCIA o REGINA",
+            "JIMENA / DIOR",
+            "MAURICIO / NICOLAS GONZALEZ",
+            "YAXKIN / ELIAN",
+            "SAUL / MARCELO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con MAURICIO RODRIGUEZ"
+            }
+          ]
         }
       ]
     },
@@ -949,6 +1353,28 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Individual Segunda Mixta"
+            }
+          ]
+        },
+        {
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con ABIGAIL PECH"
             }
           ]
         }
@@ -1099,6 +1525,28 @@
               "nota": "Individual Tercera Fuerza Grupos"
             }
           ]
+        },
+        {
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con MATEO SANCHEZ"
+            }
+          ]
         }
       ]
     },
@@ -1143,6 +1591,27 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Equipos Tercera Cat — R4"
+            }
+          ]
+        },
+        {
+          "nombre": "Dobles Tercera Categoría",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MAYA / LUCIA o REGINA",
+            "NAIMA / LUCIA o REGINA",
+            "JIMENA / DIOR",
+            "MAURICIO / NICOLAS GONZALEZ",
+            "YAXKIN / ELIAN",
+            "SAUL / MARCELO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con MARCELO CASTILLO"
             }
           ]
         }
@@ -1193,6 +1662,28 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Individual Tercera Fuerza Grupos"
+            }
+          ]
+        },
+        {
+          "nombre": "Dobles Segunda Mixto",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MORAYLE / ALEJANDRO ALVAREZ",
+            "REGINA ESQUIVEL / MATEO SANCHEZ",
+            "ISABELLA / ENMANUEL GARCIA",
+            "LUCI REYES / MARIO CASTILLO",
+            "LUCIA MEDINA / TITO SANCHEZ",
+            "KALIA / EMMANUEL CARDOS",
+            "ABIGAIL / NICOLAS MENA"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:00",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con LUCIA MEDINA"
             }
           ]
         }
@@ -1269,6 +1760,27 @@
               "fase": "grupos",
               "rival": null,
               "nota": "Equipos Tercera Cat — R4"
+            }
+          ]
+        },
+        {
+          "nombre": "Dobles Tercera Categoría",
+          "grupo": "Dobles",
+          "jugadores_grupo": [
+            "MAYA / LUCIA o REGINA",
+            "NAIMA / LUCIA o REGINA",
+            "JIMENA / DIOR",
+            "MAURICIO / NICOLAS GONZALEZ",
+            "YAXKIN / ELIAN",
+            "SAUL / MARCELO"
+          ],
+          "partidos": [
+            {
+              "dia": "Sábado",
+              "hora": "08:30",
+              "fase": "grupos",
+              "rival": null,
+              "nota": "Con ELIAN"
             }
           ]
         }
